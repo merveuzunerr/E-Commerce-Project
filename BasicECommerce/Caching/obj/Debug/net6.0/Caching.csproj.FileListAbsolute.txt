@@ -1,0 +1,12 @@
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\bin\Debug\net6.0\Caching.deps.json
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\bin\Debug\net6.0\Caching.dll
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\bin\Debug\net6.0\Caching.pdb
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.csproj.AssemblyReference.cache
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.AssemblyInfoInputs.cache
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.AssemblyInfo.cs
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.csproj.CoreCompileInputs.cache
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.dll
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\refint\Caching.dll
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\Caching.pdb
+C:\Users\uzune\source\repos\ECommerceApplication\Caching\obj\Debug\net6.0\ref\Caching.dll
